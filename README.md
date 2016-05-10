@@ -1,0 +1,1 @@
+This project is created in order to learn git or to test whether a new computer on Linux is well installed.
